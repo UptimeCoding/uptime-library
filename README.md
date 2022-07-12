@@ -1,4 +1,4 @@
-PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls.
+1)PeerJS simplifies WebRTC peer-to-peer data, video, and audio calls.
 
 PeerJS wraps the browser's WebRTC implementation to provide a complete, configurable, and easy-to-use peer-to-peer connection API. Equipped with nothing but an ID, a peer can create a P2P data or media stream connection to a remote peer. 
 
@@ -64,3 +64,9 @@ To broker connections, PeerJS connects to a PeerServer. Note that no peer-to-pee
 PeerServer Cloud
 
 If you don't want to run your own PeerServer, we offer a free cloud-hosted version of PeerServer. Official PeerServer! 
+
+LIBRARY LINK: https://github.com/UptimeCoding/uptime-library/blob/5e89f730560658ea17bc0080d2bcb87b65aee147/peerjs.min.js
+
+_____________________________________________________________________________________________________________________________________
+
+
