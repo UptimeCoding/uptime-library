@@ -1,0 +1,67 @@
+{
+    "apis":[
+        {
+            "api":"AdoptAPet",
+            "Description":"Resource to help get pets adopted",
+            "url":"https://www.adoptapet.com/public/apis/pet_list.html",
+            "Auth":"apiKey",
+            "HTTPS":"Yes",
+            "CORS":"Yes",
+            "status":"true"
+        },
+        {
+            "api":"Axolotl",
+            "Description":"Collection of axolotl pictures and facts",
+            "url":"https://theaxolotlapi.netlify.app/",
+            "Auth":"No",
+            "HTTPS":"Yes",
+            "CORS":"No",
+            "status":"true"
+        },
+        {
+            "api":"Cat Facts",
+            "Description":"Daily cat facts",
+            "url":"https://alexwohlbruck.github.io/cat-facts/",
+            "Auth":"No",
+            "HTTPS":"Yes",
+            "CORS":"No",
+            "status":"true"
+        },
+        {
+            "api":"Cataas",
+            "Description":"Cat as a service (cats pictures and gifs)",
+            "url":"https://cataas.com/",
+            "Auth":"No",
+            "HTTPS":"Yes",
+            "CORS":"No",
+            "status":"true"
+        },
+        {
+            "api":"Cats",
+            "Description":"Pictures of cats from Tumblr",
+            "url":"https://docs.thecatapi.com/",
+            "Auth":"apiKey",
+            "HTTPS":"Yes",
+            "CORS":"No",
+            "status":"true"
+        },
+        {
+            "api":"Dog Facts",
+            "Description":"Random facts of Dogs",
+            "url":"https://kinduff.github.io/dog-api/",
+            "Auth":"No",
+            "HTTPS":"Yes",
+            "CORS":"Yes",
+            "status":"true"
+        },
+        {
+            "api":"eBird",
+            "Description":"Retrieve recent or notable birding observations within a region",
+            "url":"https://documenter.getpostman.com/view/664302/S1ENwy59",
+            "Auth":"apiKey",
+            "HTTPS":"Yes",
+            "CORS":"Yes",
+            "status":"true"
+        }
+    ]
+}
