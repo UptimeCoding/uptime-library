@@ -1,0 +1,56 @@
+Privacy Policy
+
+sketchgit built the project world app as a Free app. This SERVICE is provided by sketchgit at no cost and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+
+Please read the complete version before You download, access, or otherwise use the Service. If you do not agree to the terms of the privacy policy, please do not use the Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at sketchgit unless otherwise defined in this Privacy Policy.
+
+Information We Collect
+When You use the Service, We collect Your personal information and other information about you. Sometimes, You will directly provide information. Other times, we will collect it automatically or by a third party. When Your express consent is required (e.g. if laws require), we will only collect your information if you expressly agree. By using the Service, You consent to Our collection, use and disclosure of Your information. You may refuse or withdraw this consent any time.
+
+Consent
+As permitted by law, consent to the collection of Your personal information may be implied. In certain circumstances, express consent may be required, and We will do so if it is determined that We must obtain express consent from You. Otherwise, Your acceptance of this Policy indicates Your consent to the collection, use and disclosure of Your information.
+
+Subject to legal and contractual restrictions, You may refuse or withdraw Your consent at any time by notifying Us in accordance with this Policy. We note that some of the Services require Your personal information to function properly or the Service may only be offered if You provide Us with Your personal information. In such cases, if You refuse or withdraw Your consent, the Service may not be available to You.
+
+Purposes of Collection, Use and Disclosure
+We use the information collected on the Service for the purposes listed in the Purposes section found below; this includes (without limitation) creating market research and data insight reports that are made available to third parties. If a purpose is not listed in the Purposes section, We will disclose the purpose before or at the time of collecting the information.
+
+Purposes
+Your information may be collected, used and disclosed for the following purposes:
+
+To communicate with You in accordance with applicable laws
+To provide Service to You, such as providing cash back to You and creating, updating and managing Your account
+To verify Your identity
+To connect with Your other accounts such as social media accounts
+To provide recommendation and offers on products and services
+To develop new and improve existing products and services
+To respond to Your inquiries and comments
+To prevent fraud and abuse of the Service
+To protect other users of the Service, and Our business, against security breaches
+To understand Our user base and effectiveness of the Service
+To administer, operate and improve the Service and for internal business purposes
+To compile aggregated data, perform statistical analyses and otherwise analyse Our business for internal and external business purposes
+To compile aggregated data, including personal information about You in some cases, to create market research reports and data sets as part of Our suite of products that We create for external business purposes
+To comply with legal and governmental requirements
+To fulfill any other purpose for which you provide it, or for which you provide express consent
+The purposes for which Your information is collected may be applicable for Us to process Your information or for a third-party service provider to process Your information in relation to the Service.
+
+Personal Information
+This app functionality requires/requests users to give us contact information (such as their email address) and personal information (such as their names, phone numbers, profile image/picture/photo and address details). The visitor's contact and personal information is used to contact visitors when necessary and requested, but is primarily used to collect personal information necessary to effectively market and to sell or deliver the property of sellers to buyers and to otherwise provide professional services to clients and customers. We do not sell, trade, transfer or exchange your personal information with anyone. We do not disclose information about your individual visits to this site, or personal information that you provide, such as your name, address, e-mail address, telephone number, etc., to any outside parties, except when we believe the law requires it. Hals Blue app uploading a profile image/picture/photo with app user permission at the time update profile. Hals blue app asking a permission(for CAMERA and WRITE_EXTERNAL_STORAGE) first to user for take image/photo/picture from Gallery or Camera, if app user allow it then profile image updated.
+
+Legal Disclaimer
+We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process serviced on our website.
+
+Links
+This site contains links to other sites. These sites have their own policies and practices with respect to online privacy, and This site cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a This site advertiser may ask you for personal information. This site cannot be responsible for the privacy practices of its advertisers.
+
+Children’s Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do the necessary actions.
+
+Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at sabareeshs363@gmail.com
